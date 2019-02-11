@@ -2,11 +2,12 @@
 
 A MOD for the game The Binding of Isaac, built using Lua and the official TBOI's API.
 
+<p align="center">
 ![1](https://i.imgur.com/iqhKQiz.png)
 ![2](https://i.imgur.com/O6yxeH3.png)
 ![3](https://i.imgur.com/5QcTwFI.png)
 ![4](https://i.imgur.com/Gx6cVGV.png)
-
+</p>
 If you are looking for the Steam Workshop page:
 https://steamcommunity.com/sharedfiles/filedetails/?id=844685072
 
