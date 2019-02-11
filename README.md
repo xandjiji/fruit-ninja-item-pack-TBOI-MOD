@@ -14,29 +14,47 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=844685072
 
   - BANANA (active single use item):
   
--While held, all enemy flies become familiar blue flies (Lord of the Flies effect)
+While held, all enemy flies become familiar blue flies (Lord of the Flies effect)
 -If you choose to eat the banana you get +1 eternal heart
 
-CUCUMBER (passive item):
--Keep it somewhere and you get a strong +0.5 speed up
+---
 
-WATERMELON (passive item):
--You fire tears as if you were spitting seeds! + penetrative shots AND +0.9 shot speed up
+  - CUCUMBER (passive item):
+  
+Keep it somewhere and you get a strong +0.5 speed up
 
-CHERRY (active single use item):
--Spawn a Slot Machine AND Blood Donation Machine combo + lucky penny!
+---
 
-SPINACH (passive item):
--Grow big and strong as popeye! +1.0 damage up AND destroy objects on contact
+  - WATERMELON (passive item):
 
-GRANDMA's MULTIVITAMINICS (pill):
--Swallow to get a random color everytime!
+You fire tears as if you were spitting seeds! + penetrative shots AND +0.9 shot speed up
 
+---
+
+  - CHERRY (active single use item):
+
+Spawn a Slot Machine AND Blood Donation Machine combo + lucky penny!
+
+---
+
+  - SPINACH (passive item):
+  
+Grow big and strong as popeye! +1.0 damage up AND destroy objects on contact
+
+---
+
+  - GRANDMA's MULTIVITAMINICS (pill):
+  
+Swallow to get a random color everytime!
+
+---
 
 And yes, they have costumes and visual effects :-)
 
+---
 
-TRANSFORMATION
+  - TRANSFORMATION
+  
 If you pick up at least 3 fruits, you'll become Ninja Fruit Mastahh!
 +1.25 damage multiplier
 +0.3 shotspeed
