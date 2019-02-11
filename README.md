@@ -49,10 +49,6 @@ Swallow to get a random color everytime!
 
 ---
 
-And yes, they have costumes and visual effects :-)
-
----
-
   - TRANSFORMATION
   
 If you pick up at least 3 fruits, you'll become Ninja Fruit Mastahh!
@@ -61,6 +57,6 @@ If you pick up at least 3 fruits, you'll become Ninja Fruit Mastahh!
 +0.25 range
 +0.4 speed
 
-With several randomized presets of costume colors!
+With several randomized presets of costume colors! Exclusive costumes and visual effects included :-)
 
 (are considered fruits: Banana, Cucumber, Watermelon, Cherry, Spinach, Dead Onion, Lemon Mishap, Apple and The Sad Onion)
