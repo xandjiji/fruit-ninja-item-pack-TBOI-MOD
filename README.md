@@ -13,6 +13,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=844685072
 ### Description
 
   - BANANA (active single use item):
+  
 -While held, all enemy flies become familiar blue flies (Lord of the Flies effect)
 -If you choose to eat the banana you get +1 eternal heart
 
