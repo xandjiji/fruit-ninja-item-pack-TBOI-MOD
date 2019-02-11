@@ -1,0 +1,16 @@
+<costumes anm2root="gfx/characters/">
+	<costume anm2path="pepino.anm2" priority="100" type="none" />
+	<costume anm2path="watermelonhelmet.anm2" priority="100" type="none" />
+	<costume anm2path="bananacostume.anm2" priority="100" type="none" />
+	<costume anm2path="popeyehat.anm2" priority="100" type="none" />
+	
+	<costume anm2path="headband_yellow.anm2" priority="98" type="none" />
+	<costume anm2path="ninjasuit_yellow.anm2" priority="98" type="none" />
+	<costume anm2path="headband_grey.anm2" priority="98" type="none" />
+	<costume anm2path="ninjasuit_grey.anm2" priority="98" type="none" />
+	<costume anm2path="headband_red.anm2" priority="98" type="none" />
+	<costume anm2path="ninjasuit_red.anm2" priority="98" type="none" />
+	<costume anm2path="headband_purple.anm2" priority="98" type="none" />
+	<costume anm2path="ninjasuit_purple.anm2" priority="98" type="none" />
+	
+</costumes>

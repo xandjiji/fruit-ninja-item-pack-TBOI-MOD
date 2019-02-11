@@ -1,0 +1,8 @@
+<items gfxroot="gfx/items/" version="1">
+	<passive cache="speed" name="Cucumber" description="Since you don't have a pocket for this..." gfx="cucumber.png" />
+	<active name="Banana" description="It's not a 'yellow telephone'" maxcharges="0" gfx="banana.png" />
+	<passive cache="tearcolor tearflag shotspeed" name="Watermelon" description="Don't swallow the seeds or..." gfx="watermelon.png" />
+	<active name="Cherry" description="666 + 111 = 777!" maxcharges="0" gfx="cherry.png" />
+	<passive cache="damage" name="statball123" description="dasd" gfx="watermelon.png" />
+	<passive cache="damage" name="Spinach" description="I yam what I yam" gfx="spinach.png" />
+</items>
